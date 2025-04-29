@@ -75,8 +75,8 @@ export const PROJECTS = [
       // "Dark/Light mode toggle to enhance user experience based on preferences.",
     ],
     techStack: ["React js", "React Router", "Tailwind CSS", "Web Application"],
-    liveLink: "https://your-ai-chat-app.vercel.app",
-    repoLink: "https://github.com/your-username/gemini-chat-app",
+    liveLink: "https://keshavgulati.netlify.app",
+    repoLink: "https://github.com/gulatikeshav/myPortfolio",
   },
   {
     title: "QuickBite",
