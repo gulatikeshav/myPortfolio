@@ -1,6 +1,6 @@
 import React from "react";
 import { EDUCATIONS } from "../utils/Constants";
-import PageHeader from "../components/pageHeader";
+import PageHeader from "../components/PageHeader";
 import AboutPage from "../components/AboutPage";
 import Image from "../components/Image";
 import CodeSnippetSection from "../components/CodeSnippetSection";
