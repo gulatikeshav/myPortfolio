@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <circle cx="32" cy="32" r="31" stroke="black" stroke-width="2" fill="white"/>
+  <g stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left glass -->
+    <circle cx="22" cy="32" r="8"/>
+    <!-- Right glass -->
+    <circle cx="42" cy="32" r="8"/>
+    <!-- Bridge -->
+    <line x1="30" y1="32" x2="34" y2="32"/>
+    <!-- Smile -->
+    <path d="M26 42 Q32 46 38 42" stroke-width="1.5"/>
+    <!-- Code brackets -->
+    <path d="M10 32 Q8 32 10 28" />
+    <path d="M54 32 Q56 32 54 28" />
+  </g>
+</svg>
