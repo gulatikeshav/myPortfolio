@@ -1,7 +1,7 @@
 import React from "react";
 import { SKILLS } from "../utils/Constants";
 import CodeSnippetSection from "../components/CodeSnippetSection";
-import PageHeader from "../components/pageHeader";
+import PageHeader from "../components/PageHeader";
 import AboutPage from "../components/AboutPage";
 import Image from "../components/Image";
 
