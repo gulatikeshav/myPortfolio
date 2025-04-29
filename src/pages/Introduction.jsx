@@ -1,5 +1,5 @@
 import React from "react";
-import PageHeader from "../components/pageHeader";
+import PageHeader from "../components/PageHeader";
 import AboutPage from "../components/AboutPage";
 import CodeSnippetSection from "../components/CodeSnippetSection";
 import Image from "../components/Image";
