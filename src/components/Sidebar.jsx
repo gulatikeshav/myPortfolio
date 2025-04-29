@@ -30,7 +30,7 @@ const socialLinks = [
     text: "GitHub",
   },
   {
-    to: "https://drive.google.com/file/d/1J1zF_uHZU86xGXK2U-9csjlLhLFvAKup/view?usp=share_link",
+    to: "https://drive.google.com/file/d/1VIVy0nrmOdjjNR_Ny4Mzl41nne5-5_Gc/view?usp=share_link",
     icon: (
       <HiOutlineDocumentArrowDown className=" w-10 h-10 text-green-600 p-2 bg-white rounded-full shadow-md" />
     ),
