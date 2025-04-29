@@ -2,7 +2,7 @@ import React from "react";
 import CodeSnippetSection from "../components/CodeSnippetSection";
 import AboutPage from "../components/AboutPage";
 import Image from "../components/Image";
-import PageHeader from "../components/pageHeader";
+import PageHeader from "../components/PageHeader";
 
 const About = () => {
   return (
