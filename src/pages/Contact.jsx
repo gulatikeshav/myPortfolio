@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Image from "../components/Image";
 import Input from "../components/Input";
 import Button from "../components/Button";
-import PageHeader from "../components/pageHeader";
+import PageHeader from "../components/PageHeader";
 import CodeSnippetSection from "../components/CodeSnippetSection";
 
 const Contact = () => {
